@@ -1,8 +1,6 @@
-@import './components/common/header';
-@import './components/index/hero';
-@import './components/index/advantages';
-@import './components/index/work';
-@import './components/index/our-team';
-@import './components/index/clients';
-@import './components/common/footer';
-@import './components/porfolio';
+@import './utils/common';
+@import './utils/variables';
+@import './utils/visually-hidden';
+@import './general/header';
+@import './index/hero'
+
