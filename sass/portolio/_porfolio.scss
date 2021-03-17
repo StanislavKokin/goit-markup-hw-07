@@ -1,17 +1,18 @@
-.portf__menu {
+.filters {
   display: flex;
   text-align: center;
   justify-content: center;
+  margin-bottom: 50px;
 }
 
-.portf__item +.portf__item {
+.filters__item +.filters__item {
   margin-left: 8px;
 }
 
-.portf__button  {
+.filters__button  {
   display: inline-block;
   padding: 6px 22px;
-  margin-bottom: 50px;
+  
 
   font-family: inherit;
   font-style: inherit;

@@ -1,11 +1,11 @@
-.our-team {
+.team {
   padding-top: 94px;
   padding-bottom: 94px;
   text-align: center;
   background-color: $secondary-back;
 }
 
-.our-team__title {
+.team__title {
   margin-bottom: 50px;
 
   font-weight: 700;
@@ -27,7 +27,7 @@
 
 .cards__item {
   text-align: center;
-  padding-bottom: 30px;
+  
 
   background-color: $primary-back;
 
@@ -36,9 +36,7 @@
   border-radius: 0px 0px 4px 4px;
 }
 
-.cards__thumb {
-  margin-bottom: 30px;
-
+.team__thumb {
   width: 270px;
   height: 260px;
 }
@@ -97,4 +95,8 @@
 
 .media__icon {
   fill: currentColor;
+}
+
+.team__position {
+  padding: 30px 32px 30px 32px;
 }
